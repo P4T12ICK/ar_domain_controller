@@ -3,7 +3,6 @@ dependencies: []
 
 galaxy_info:
   role_name: ar_domain_controller
-  namespace: p4t12ick
   author: P4T12ICK
   description: An Ansible Role that installs a Attack Range Domain Controller.
   company: Splunk

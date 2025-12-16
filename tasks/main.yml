@@ -48,7 +48,7 @@
     post_reboot_delay: 60
 
 - name: Managing Domain Controller Membership
-  win_domain_controller:
+  microsoft.ad.domain_controller:
     dns_domain_name: "attackrange.local"
     domain_admin_user: "{{ ansible_user }}@attackrange.local"
     domain_admin_password: "{{ ar_domain_controller_password }}"

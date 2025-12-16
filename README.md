@@ -1,4 +1,4 @@
-# Ansible Role: [Attack Range](https://github.com/splunk/attack_range Domain Controller
+# Ansible Role: [Attack Range](https://github.com/splunk/attack_range) Domain Controller
 
 An Ansible Role that installs a [Attack Range](https://github.com/splunk/attack_range) Windows Server Domain Controller.
 

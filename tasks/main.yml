@@ -34,7 +34,7 @@
     state: present
 
 - name: Creating a windows domain
-  win_domain:
+  microsoft.ad.domain:
     dns_domain_name: "attackrange.local"
     safe_mode_password: "{{ ar_domain_controller_password }}"
 

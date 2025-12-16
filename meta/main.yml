@@ -15,4 +15,5 @@ galaxy_info:
 
 collections: 
   - ansible.windows
+  - microsoft.ad
 
